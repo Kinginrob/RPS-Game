@@ -1,2 +1,2 @@
 # RPS-Game
-Simple Rock Paper Scissors Python script
+Simple Rock Paper Scissors script made using Python 
